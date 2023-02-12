@@ -1,0 +1,21 @@
+MLA Citation
+
+1. Ekanayake, Jayalath, and Luckshitha Saputhanthri. "E-AGRO: Intelligent chat-bot. IoT and artificial intelligence to enhance farming industry." AGRIS on-line Papers in Economics and Informatics 12.1 (2020): 15-21.
+
+2. Reddy, G. & Goverdhan, Manthati & Pragathi Kumari, Ch & Baba, Md & Chiranjeevi, Kodam & Rani, B. (2021). Integrated farming system a promising approach for doubling the farmer income. 
+
+3. Elavarasan, Dhivya, and PM Durairaj Vincent. "Crop yield prediction using deep reinforcement learning model for sustainable agrarian applications." IEEE access 8 (2020): 86886-86901.
+
+4. Ong, R. J., et al. "A Review of Chatbot development for Dynamic Web-based Knowledge Management System (KMS) in Small Scale Agriculture." Journal of Physics: Conference Series. Vol. 1755. No. 1. IOP Publishing, 2021.
+
+5. Dahikar, Snehal S. and S. V. Rode. “Agricultural Crop Yield Prediction Using Artificial Neural Network Approach Miss .” (2014).
+
+6. Azam, Md Sikandar, and Musarrat Shaheen. "Decisional factors driving farmers to adopt organic farming in India: a cross-sectional study." International Journal of Social Economics 46.4 (2019): 562-580.
+
+7. Merriott, Dominic. "Factors associated with the farmer suicide crisis in India." Journal of epidemiology and global health 6.4 (2016): 217-227.
+
+8. Jain, Nishit, et al. "Crop selection method based on various environmental factors using machine learning." International Research Journal of Engineering and Technology (IRJET) 4.2 (2017): 1530-1533.
+
+9. Jain, Sonal, and Dharavath Ramesh. "Machine Learning convergence for weather based crop selection." 2020 IEEE International Students' Conference on Electrical, Electronics and Computer Science (SCEECS). IEEE, 2020.
+
+10. Kalimuthu, M., P. Vaishnavi, and M. Kishore. "Crop prediction using machine learning." 2020 third international conference on smart systems and inventive technology (ICSSIT). IEEE, 2020.
